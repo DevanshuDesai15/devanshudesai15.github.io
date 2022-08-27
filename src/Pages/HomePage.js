@@ -14,9 +14,9 @@ function HomePage() {
             <div className="typography">
                 <h1>Hi, I'm <span>Devanshu Desai</span></h1>
                 <p>
-                    Icoming MS SE student at Arizona State University ||
-                    Worked as ReactJS intern ||
-                    Data Aanalysis, Data Visulization Enthusiast
+                Grad student at Arizona State University ||
+                    Web Developer ||
+                    Data Analysis, Data Visualization Enthusiast
                 </p>
                 <div className="icons">
                     <a href="https://www.linkedin.com/in/devanshudesai15" className="icon i-facebook">

@@ -31,7 +31,7 @@ const portfolios = [
     },
     {
         id: 3,
-        category: 'React JS',
+        category: 'Web',
         image: port,
         link1: 'https://www.google.com',
         title: 'Portfolio 1.0',
@@ -55,7 +55,7 @@ const portfolios = [
     },
     {
         id: 6,
-        category: 'React JS',
+        category: 'Web',
         image: netflix,
         link1: 'https://github.com/DevanshuDesai15/netflix-cloneUI',
         title: 'Netflix Clone',
@@ -79,7 +79,7 @@ const portfolios = [
     },
     {
         id: 9,
-        category: 'React JS',
+        category: 'Web',
         image: disney,
         link1: 'https://github.com/DevanshuDesai15/Disneyplus-clone',
         title: 'Disney Plus Clone',
@@ -87,7 +87,7 @@ const portfolios = [
     },
     {
         id: 10,
-        category: 'React JS',
+        category: 'Web',
         image: tropicals,
         link1: 'https://github.com/DevanshuDesai15/react-cocktails-app',
         title: 'Tropicals',
@@ -95,7 +95,7 @@ const portfolios = [
     },
     {
         id: 11,
-        category: 'React JS',
+        category: 'Web',
         image: tour,
         link1: 'https://github.com/DevanshuDesai15/rw-touristPlaces',
         title: 'Tour Planner',
@@ -103,7 +103,7 @@ const portfolios = [
     },
     {
         id: 12,
-        category: 'React JS',
+        category: 'Web',
         image: todo,
         link1: 'https://github.com/DevanshuDesai15/react-TypeScript-Todo-List-app',
         title: 'To-do List',
