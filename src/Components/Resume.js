@@ -22,19 +22,19 @@ function Resume() {
                         year={'Dec 2021 - Apr 2022'} 
                         title={'Full Stack Developer Intern'}
                         subTitle={'Inspiro InfoTech'}
-                        text={"Developed a CRM (Customer Relationship Model) system. Implemented a unique Login Credentials with NestJs & Redux-saga, developed a component to manage software packages with features and it's groups. Implementation of these components will make the registration of customer data easier by 20% so more time will be saved."}
+                        text={"Designed a UI for Login, Package Component and Feature Component. Implemented Login with NestJS as backend and React Redux as Middleware. Implemented Features Page and Packages page whose data was fetched with NestJS."}
                     />
                     <ResumeItem 
                         year={'Jun 2021 - Jul 2021'} 
                         title={'Advance SQL Intern'}
                         subTitle={'SSM InfoTech Solutions Pvt. Ltd.'}
-                        text={'Composed SQL queries in Microsoft SQL Server Management Studio-18 (MSSMS).Contributed in different queries to find data faster. Participated on project of Managing Data of a Bicycle Warehouse and implemented changes in queries to find data eaily by 5%.'} 
+                        text={"Composed SQL queries like Joins, Aggregate Function, Pivot, User Define Function, etc. Implemented different queries like Inner Join, Views, Cross Join, etc. to find data for a bicycle company."} 
                     />
                     <ResumeItem 
                         year={'Apr 2020 - May 2020'} 
                         title={'Android Application Intern'}
                         subTitle={'Differenz System'}
-                        text={'Added designs in the application so that user experience becomes smooth. Implemented navigation bar to the application for switching between selling and buying coupons. Executed a live location feature so that user can find the coupons, which are available for that location.'} 
+                        text={"Designed a UI for buying page and selling page of coupons. Implemented navigation bar to the application for switching between multiple pages. Executed a live location feature so that user can find the coupons, that are available for that specific location."} 
                     />
                 </div>
                 <div className="small-title u-small-title-margin">
@@ -45,7 +45,7 @@ function Resume() {
                         year={'2022 - 2024'} 
                         title={"Master's in Software Engineering"}
                         subTitle={'Arizona State University'}
-                        text={"Incoming Masters student for Fall'22"} 
+                        text={"Graduate student for Fall'22"} 
                     />
                     <ResumeItem 
                         year={'2018 - 2022'} 
