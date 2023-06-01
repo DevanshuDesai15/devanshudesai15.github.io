@@ -10,12 +10,12 @@ function ImageSection() {
                 <img src={resume} alt="" />
             </div>
             <div className="right-content">
-                <h4>Hi I am <span>Devanshu Desai</span></h4>
+                <h4>Greetings I am <span>Devanshu</span></h4>
                 <p className="paragraph">
                 Dedicated & hard-working creative thinker, quick learner & an adaptive person with an aim to invest time exploring technology & contribute to its growth & development. Bringing forth excellent leadership skills and a self-starter attitude and work ethic. Highly determined to excel through all endeavours, taking up challenges head-on & putting in the best efforts.
                 </p>
                 
-                <a href="https://drive.google.com/file/d/1deF3OMNqyceK-GWli5BjUmeaVYrdrU4O/view">
+                <a href="https://drive.google.com/file/d/1NEqE6h1fWV908ISzq8LMVWN3o_YVNEFf/view?usp=share_link">
                     <PrimaryButton title={'View Resume'} />
                 </a>
             </div>
