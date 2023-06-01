@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/static/js/main.1f50ed80.chunk.js",
-    "main.js.map": "/static/js/main.1f50ed80.chunk.js.map",
+    "main.js": "/static/js/main.e21adc19.chunk.js",
+    "main.js.map": "/static/js/main.e21adc19.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.ac283672.js",
     "runtime-main.js.map": "/static/js/runtime-main.ac283672.js.map",
     "static/js/2.5d909987.chunk.js": "/static/js/2.5d909987.chunk.js",
@@ -15,15 +15,29 @@
     "static/media/MunchMania.231939be.png": "/static/media/MunchMania.231939be.png",
     "static/media/Tour.51949bcc.png": "/static/media/Tour.51949bcc.png",
     "static/media/Tropicals.77103fb7.png": "/static/media/Tropicals.77103fb7.png",
+    "static/media/android.b4182b8c.svg": "/static/media/android.b4182b8c.svg",
     "static/media/avatar.56115cb0.jpg": "/static/media/avatar.56115cb0.jpg",
-    "static/media/blog1.7ecbb78c.svg": "/static/media/blog1.7ecbb78c.svg",
-    "static/media/blog2.09939351.svg": "/static/media/blog2.09939351.svg",
-    "static/media/blog3.6291ee7c.svg": "/static/media/blog3.6291ee7c.svg",
+    "static/media/blog1.aa2f074c.svg": "/static/media/blog1.aa2f074c.svg",
+    "static/media/blog2.df7996bd.svg": "/static/media/blog2.df7996bd.svg",
+    "static/media/blog3.969725e8.svg": "/static/media/blog3.969725e8.svg",
     "static/media/blog4.60aa6cec.svg": "/static/media/blog4.60aa6cec.svg",
+    "static/media/c++.21a8fab8.svg": "/static/media/c++.21a8fab8.svg",
+    "static/media/c.a776a608.svg": "/static/media/c.a776a608.svg",
+    "static/media/css.4e47c312.svg": "/static/media/css.4e47c312.svg",
     "static/media/evm.8bad0dab.jpg": "/static/media/evm.8bad0dab.jpg",
+    "static/media/figma.72ff3502.svg": "/static/media/figma.72ff3502.svg",
+    "static/media/firebase.e6583a29.svg": "/static/media/firebase.e6583a29.svg",
+    "static/media/flutter.9a496ae2.svg": "/static/media/flutter.9a496ae2.svg",
+    "static/media/git.c60b7e5a.svg": "/static/media/git.c60b7e5a.svg",
+    "static/media/github.17bf6c47.svg": "/static/media/github.17bf6c47.svg",
+    "static/media/html.f318c8b1.svg": "/static/media/html.f318c8b1.svg",
+    "static/media/javascript.00f3e5cf.svg": "/static/media/javascript.00f3e5cf.svg",
+    "static/media/mysql.0697e026.svg": "/static/media/mysql.0697e026.svg",
     "static/media/netflix.483f7cb2.PNG": "/static/media/netflix.483f7cb2.PNG",
     "static/media/port1.89e24471.PNG": "/static/media/port1.89e24471.PNG",
     "static/media/py.6bf42657.png": "/static/media/py.6bf42657.png",
+    "static/media/python.e6d7dc73.svg": "/static/media/python.e6d7dc73.svg",
+    "static/media/react.e68b35f4.svg": "/static/media/react.e68b35f4.svg",
     "static/media/resume.6599521b.jpg": "/static/media/resume.6599521b.jpg",
     "static/media/steer.990cdff7.jpg": "/static/media/steer.990cdff7.jpg",
     "static/media/todo.e1e0907b.png": "/static/media/todo.e1e0907b.png"
@@ -31,6 +45,6 @@
   "entrypoints": [
     "static/js/runtime-main.ac283672.js",
     "static/js/2.5d909987.chunk.js",
-    "static/js/main.1f50ed80.chunk.js"
+    "static/js/main.e21adc19.chunk.js"
   ]
 }
