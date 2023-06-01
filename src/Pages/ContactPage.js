@@ -60,9 +60,9 @@ function ContactPage() {
                     </form>
                 </div>
                 <div className="right-content">
-                    <ContactItem title={'Phone'} icon={phone} cont1={'+91-7433036636'} />
-                    <ContactItem title={'Email'} icon={email} cont1={'devanshudesai15@gmail.com'} />
-                    <ContactItem title={'Address'} icon={location} cont1={'E-101 Sun Residency, Anand Mahal Road, Surat, Gujarat'} cont2={'India'} />
+                    <ContactItem title={'Phone'} icon={phone} cont1={'+1(347) 908-5210'} />
+                    <ContactItem title={'Email'} icon={email} cont1={'devanshuadesai15@gmail.com'} />
+                    <ContactItem title={'Address'} icon={location} cont1={'1221 E Apache Blvd, Apt 3080, Tempe, Arizona-85281'} cont2={'United States'} />
                     
                 </div>
             </InnerLayout>

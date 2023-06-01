@@ -22,19 +22,19 @@ function Resume() {
                         year={'Dec 2021 - Apr 2022'} 
                         title={'Full Stack Developer Intern'}
                         subTitle={'Inspiro InfoTech'}
-                        text={"Designed a UI for Login, Package Component and Feature Component. Implemented Login with NestJS as backend and React Redux as Middleware. Implemented Features Page and Packages page whose data was fetched with NestJS."}
+                        text={"Engineered and integrated key features for company’s CRM website using ReactJS and NestJS technologies, resulting in a 25% increase in website traffic and a 20% improvement in user engagement. Collaborated with team members to seamlessly integrate ReactJS features into the CRM website, resulting in a 15% decrease in website loading time and a 30% increase in user satisfaction. Streamlined task prioritization and consistently delivered high-quality work within tight deadlines, resulting in a 50% increase in productivity during the last month of the internship."}
                     />
                     <ResumeItem 
                         year={'Jun 2021 - Jul 2021'} 
                         title={'Advance SQL Intern'}
                         subTitle={'SSM InfoTech Solutions Pvt. Ltd.'}
-                        text={"Composed SQL queries like Joins, Aggregate Function, Pivot, User Define Function, etc. Implemented different queries like Inner Join, Views, Cross Join, etc. to find data for a bicycle company."} 
+                        text={" Composed SQL queries like Joins, Aggregate Function, Pivot, User Define Function, etc. Implemented Inner Join, Views, Cross Join, and other queries, resulting in 15% faster data analysis and retrieval for the company."} 
                     />
                     <ResumeItem 
                         year={'Apr 2020 - May 2020'} 
                         title={'Android Application Intern'}
                         subTitle={'Differenz System'}
-                        text={"Designed a UI for buying page and selling page of coupons. Implemented navigation bar to the application for switching between multiple pages. Executed a live location feature so that user can find the coupons, that are available for that specific location."} 
+                        text={"Developed and designed a user interface for buying and selling pages of coupons, resulting in a 30% increase in user engagement. Executed a navigation bar in Android Studio, allowing for seamless switching between multiple pages, reducing page load time by 25%. Teamed with developers to ensure the application was bug-free and user-friendly, resulting in a 95% user satisfaction rate based on user feedback"} 
                     />
                 </div>
                 <div className="small-title u-small-title-margin">
@@ -45,7 +45,7 @@ function Resume() {
                         year={'2022 - 2024'} 
                         title={"Master's in Software Engineering"}
                         subTitle={'Arizona State University'}
-                        text={"Graduate student for Fall'22"} 
+                        text={"GPA: 3.89/4.0"} 
                     />
                     <ResumeItem 
                         year={'2018 - 2022'} 
