@@ -4,6 +4,7 @@ import LinkedIn from '@material-ui/icons/LinkedIn';
 import GithubIcon from '@material-ui/icons/GitHub';
 import GmailIcon from '@material-ui/icons/Mail';
 import Particle from '../Components/Particle';
+import Typed from 'react-typed';
 
 function HomePage() {
     return (
@@ -13,11 +14,14 @@ function HomePage() {
             </div>
             <div className="typography">
                 <h1>Hi, I'm <span>Devanshu Desai</span></h1>
-                <p>
-                Grad student at Arizona State University ||
-                    Web Developer ||
-                    Data Analysis, Data Visualization Enthusiast
-                </p>
+                <p> Grad student at Arizona State University </p>
+                <Typed
+                    className='typed-text'
+                    strings={['Web Developer', 'Android Application Developer', 'Front-end Development']}
+                    typeSpeed={40}
+                    backSpeed={60}
+                    loop
+                />
                 <div className="icons">
                     <a href="https://www.linkedin.com/in/devanshudesai15" className="icon i-facebook">
                         <LinkedIn />
@@ -38,6 +42,10 @@ const HomePageStyled = styled.header`
     width: 100%;
     height: 100vh;
     position: relative;
+
+    .typed-text{
+
+    }
    
     .typography{
         position: absolute;

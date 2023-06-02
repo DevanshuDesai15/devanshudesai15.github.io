@@ -39,7 +39,7 @@ function App() {
     <div className="App">
         <Sidebar navToggle={navToggle} />
 
-        <div className="theme">
+        <div className="theme">=-0
           <div className="light-dark-mode">
               <div className="left-content">
                 <Brightness4Icon />
